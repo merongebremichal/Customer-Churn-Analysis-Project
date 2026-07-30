@@ -344,42 +344,13 @@ Based on the analysis, the company should:
 
 
 🖼️ **Dashboard Screenshots**
+![Executive Overview](./Images/Executive_Overview.png)
 
+![Customer Analysis](./Images/Customer_Analysis.png)
 
+![Revenue Analysis](./Images/Revenue_Analysis.png)
 
-**Executive Overview**
-
-
-
-Executive\_Overview.png
-
-
-
-**Customer Analysis**
-
-
-
-Customer\_Analysis.png
-
-
-
-**Revenue Analysis**
-
-
-
-Revenue\_Analysis.png
-
-
-
-**Recommendations**
-
-
-
-Recommendations.png
-
-
-
-
+![Recommendations](./Images/Recommendations.png)
 
 
 
